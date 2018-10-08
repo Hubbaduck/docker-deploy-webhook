@@ -8,12 +8,11 @@
     }
   },
   "development": {
-    "my-org/my-repo:development": {
-      "service": "my-docker-service"
+    "boomdigital/cardfool-app:0eede0f7e7d625495cd302bc0d7e81c6f31bad63": {
+      "service": "cardfool_web"
     },
     "my-org/my-other-repo:development": {
       "service": "my-other-docker-service"
     }
 
-  }
-}
+  
